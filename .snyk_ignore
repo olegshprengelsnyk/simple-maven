@@ -1,0 +1,9 @@
+ignore:
+  SNYK-JAVA-C3P0-461017:
+    - c3p0:c3p0@0.9.1.2:
+        reason: transitive ignore
+        expires: '2100-01-01'
+  SNYK-JAVA-C3P0-461018:
+    - c3p0:c3p0@0.9.1.2:
+        reason: transitive ignore
+        expires: '2100-01-01'
